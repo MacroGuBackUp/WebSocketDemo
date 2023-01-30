@@ -5,9 +5,9 @@ clone code from this repo, [LINK](https://github.com/MacroGu/WebSocketServer)
 and run this server
 
 # step 2, Create Websocket,    
-you can use CreateWebSocketClient to create a websocket, and it will init steps for you, but you can still create an attribute of WebSocketClient, and use it for any operations   
+you can use CreateCustomWebSocket to create a websocket, and it will init steps for you, but you can still create an attribute of CustomWebSocket, and use it for any operations   
 fill the target server address here:   
-![image](https://user-images.githubusercontent.com/8192020/215424210-8797d8b7-5e92-44e7-a4da-df071e464c2b.png)   
+![image](https://user-images.githubusercontent.com/8192020/215428208-5b1c0661-b301-4da5-95c3-8d90748b49dc.png)   
 or you can change it in this function:   
 ![image](https://user-images.githubusercontent.com/8192020/215424368-befdeed7-ea3b-4c58-b273-34704bb88b62.png)   
 bind event for each delegate you care about:   
@@ -27,7 +27,6 @@ use Connect to Server function to connect to server
 # Step 4, send meesage to server   
 use Send Message to Server to send message:   
 ![image](https://user-images.githubusercontent.com/8192020/215425189-abf5d5f2-172d-45ea-8659-6d8a8e9f31b7.png)   
-
 
 
 
